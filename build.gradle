@@ -15,6 +15,7 @@ apply plugin: 'findbugs'
 apply plugin: 'pmd'
 
 checkstyleTest.enabled = false
+pmdTest.enabled = false
 
 sourceSets {
      main {
