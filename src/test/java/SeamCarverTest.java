@@ -55,7 +55,7 @@ public class SeamCarverTest {
   @Test
   public void testEnergyTopBorder() {
     for(int i = 0; i < sc6x5.width(); i++) {
-      assertEquals(1000, sc6x5.energy(0, i), 0.001);
+      assertEquals(1000, sc6x5.energy(i, 0), 0.001);
     }
   }
 
