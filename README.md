@@ -1,8 +1,8 @@
 ## Assignment Specification
-http://coursera.cs.princeton.edu/algs4/assignments/seam.html
+https://coursera.cs.princeton.edu/algs4/assignments/seam/specification.php
 
 ## Checklist 
-http://coursera.cs.princeton.edu/algs4/checklists/seam.html
+https://coursera.cs.princeton.edu/algs4/assignments/seam/faq.php
 
 # Programming Assignment 2: Seam Carving
 
